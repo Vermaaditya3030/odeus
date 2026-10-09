@@ -20,7 +20,7 @@ local clone of their own target repository when the program runs.
 Clone this repository:
 
 ```bash
-git clone https://github.com/vatsalkoriya/odeus.git
+git clone https://github.com/Vermaaditya3030/odeus.git
 cd odeus
 ```
 
@@ -36,7 +36,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 For example:
 
 ```bash
-git clone https://github.com/vatsalkoriya/odeus-trial-auto.git
+git clone https://github.com/Vermaaditya3030/odeus.git
 ```
 
 Make sure Git authentication works and that the target repository has a
